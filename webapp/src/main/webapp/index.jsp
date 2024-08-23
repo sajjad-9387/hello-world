@@ -33,6 +33,6 @@
   </div>
 
    <h1> This will auto update after 60 seconds </h1>
-
+   <h2>this build is adding that your image will same automatic on github</h2>
   
 </form>
