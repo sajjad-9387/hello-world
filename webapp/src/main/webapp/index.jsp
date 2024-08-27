@@ -37,4 +37,5 @@
    <h2>this build is adding that your image will same automatic on github</h2>
    <h3>this time going to build image upload the image, the download the image and make the container in run</h3>
 <h5>This is from the kubernetes, autoupdate</h5>
+<h3>I am going uplpoad image by jenkin automatic, not manully by docker command<h3/>
 </form>
