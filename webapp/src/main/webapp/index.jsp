@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>This is final touch of CI/CD Process .-> Sajjad->upload code from local machine to k8s deployment with loadbalance<h2/>
+    <h2>This is final touch of CI/CD Process .->upload code from local machine to k8s deployment with loadbalance<h2/>
     <h1>Sajjad First DevOps Pipeline using JENKINS on the TOMCAT server</h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
